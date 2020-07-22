@@ -4,3 +4,4 @@
 [![Email: Advait](https://img.shields.io/badge/Email-Advait-red)](mailto:advaittheboss@gmail.com)
 [![WCA: Advait Dhingra](https://img.shields.io/badge/WCA-Speedcubing-orange)](https://www.worldcubeassociation.org/persons/2016DHIN01)
 
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=advaitdhingra&hide=["issues"]&show_icons=true)
