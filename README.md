@@ -5,6 +5,6 @@
 [![WCA: Advait Dhingra](https://img.shields.io/badge/WCA-Speedcubing-orange)](https://www.worldcubeassociation.org/persons/2016DHIN01)
 
 #Check out my custom domain, where I regularly test my webpages:
-[![Website: Advait](http://dhingra.co.in)](http://dhingra.co.in)
+[![Website: Advait](https://img.shields.io/badge/My-Website-blue)](http://dhingra.co.in)
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=advaitdhingra&hide=["issues"]&show_icons=true)
