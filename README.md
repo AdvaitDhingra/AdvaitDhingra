@@ -5,4 +5,15 @@
 [![WCA: Advait Dhingra](https://img.shields.io/badge/WCA-Speedcubing-orange)](https://www.worldcubeassociation.org/persons/2016DHIN01)
 [![Blog: Advait](https://img.shields.io/badge/My-Website-blue)](https://mrdhingra.tech)
 
+## Skills:
+
+- **Frontend:** React
+- **Backend:** Node.js, Firebase (Auth)
+- **Mobile:** Flutter, Swift
+- **UI-Frameworks:** Material-UI, Bootstrap
+- **Web:** HTML5, CSS3
+- **Databases:** Firebase (Firestore)
+- **Miscellaneous:** Git
+- **Languages:** Python, C#, C++
+
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=advaitdhingra&hide=["issues"]&show_icons=true)
