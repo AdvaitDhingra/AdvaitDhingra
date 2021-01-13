@@ -1,4 +1,10 @@
 ### Hi, my name is  Advait 👋
+
+#### I'm a 15-year-old hobbyist developer from Germany. I'm also a Physics enthusiast and a speedcuber. 
+
+#### I started programming in 2019 and my first leanguage was Python. I have picked up quite a few languages
+#### and frameworks since then, like ReactJs and Root.
+
 [![Twitter: @advaitdhingra](https://img.shields.io/twitter/follow/advaitdhingra?label=Follow&style=social)](https://twitter.com/advaitdhingra)
 [![GitHib: AdvaitDhingra](https://img.shields.io/github/followers/AdvaitDhingra?label=Follow&style=social)](https://github.com/advaitdhingra)
 [![Email: Advait](https://img.shields.io/badge/Email-Advait-red)](mailto:advaittheboss@gmail.com)
@@ -17,3 +23,11 @@
 - **Languages:** Python, C#, C++
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=advaitdhingra&hide=["issues"]&show_icons=true)
+
+## Milestones:
+* [x] Published my first website. (March 2019).
+* [x] Worked on a project with other developers.
+* [ ] Sold a program I wrote.
+* [ ] Published my first mobile application.
+* [ ] Contributed to an open-source project that wasn't my own.
+* [ ] Published my first Desktop Application.
