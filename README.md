@@ -2,8 +2,9 @@
 
 #### I'm a 15-year-old hobbyist developer from Germany. I'm also a Physics enthusiast and a speedcuber. 
 
-#### I started programming in 2019 and my first leanguage was Python. I have picked up quite a few languages
-#### and frameworks since then, like ReactJs and Root.
+#### I started programming in 2019 and my first language was Python. I have picked up quite a few languages
+#### and frameworks since then, like ReactJs and Root. I'm not that experienced in programming, so please hit
+#### me up if you have a project and want some help.  
 
 [![Twitter: @advaitdhingra](https://img.shields.io/twitter/follow/advaitdhingra?label=Follow&style=social)](https://twitter.com/advaitdhingra)
 [![GitHib: AdvaitDhingra](https://img.shields.io/github/followers/AdvaitDhingra?label=Follow&style=social)](https://github.com/advaitdhingra)
