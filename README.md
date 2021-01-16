@@ -15,7 +15,7 @@
 ## Skills:
 
 - **Frontend:** ReactJs
-- **Backend:** Node.js, Firebase (Auth)
+- **Backend:** Firebase (Auth), (NodeJs)
 - **Mobile:** Flutter, Swift
 - **UI-Frameworks:** Material-UI, Bootstrap
 - **Web:** HTML5, CSS3
