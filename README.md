@@ -30,5 +30,5 @@
 * [x] Worked on a project with other developers.
 * [ ] Sold a program I wrote.
 * [ ] Published my first mobile application.
-* [ ] Contributed to an open-source project that wasn't my own.
+* [x] Contributed to an open-source project that wasn't my own.
 * [ ] Published my first Desktop Application.
