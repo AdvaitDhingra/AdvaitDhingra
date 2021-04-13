@@ -6,7 +6,6 @@
 #### and frameworks since then, like ReactJs and Root. I'm not that experienced in programming, so please hit
 #### me up if you have a project and want some help.  
 
-[![Twitter: @advaitdhingra](https://img.shields.io/twitter/follow/advaitdhingra?label=Follow&style=social)](https://twitter.com/advaitdhingra)
 [![GitHib: AdvaitDhingra](https://img.shields.io/github/followers/AdvaitDhingra?label=Follow&style=social)](https://github.com/advaitdhingra)
 [![Reddit: x_AdvaitD_x](https://img.shields.io/reddit/user-karma/combined/x_AdvaitD_x?style=social)
 [![Email: Advait](https://img.shields.io/badge/Email-Advait-red)](mailto:advaittheboss@gmail.com)
