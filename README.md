@@ -7,7 +7,6 @@
 #### me up if you have a project and want some help.  
 
 [![GitHib: AdvaitDhingra](https://img.shields.io/github/followers/AdvaitDhingra?label=Follow&style=social)](https://github.com/advaitdhingra)
-[![Reddit: x_AdvaitD_x](https://img.shields.io/reddit/user-karma/combined/x_AdvaitD_x?style=social)
 [![Email: Advait](https://img.shields.io/badge/Email-Advait-red)](mailto:advaittheboss@gmail.com)
 [![WCA: Advait Dhingra](https://img.shields.io/badge/WCA-Speedcubing-orange)](https://www.worldcubeassociation.org/persons/2016DHIN01)
 [![Blog: Advait](https://img.shields.io/badge/My-Website-blue)](https://AdvaitDhingra.github.io)
