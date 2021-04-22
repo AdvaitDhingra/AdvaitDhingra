@@ -11,6 +11,9 @@
 [![WCA: Advait Dhingra](https://img.shields.io/badge/WCA-Speedcubing-orange)](https://www.worldcubeassociation.org/persons/2016DHIN01)
 [![Blog: Advait](https://img.shields.io/badge/My-Website-blue)](https://AdvaitDhingra.github.io)
 
+
+![Advait's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaitdhingra&show_icons=true&theme=dark&count_private=true)
+
 ## Skills:
 
 - **Frontend:** ReactJs
@@ -22,7 +25,6 @@
 - **Miscellaneous:** Git
 - **Languages:** Python, C#, C++
 
-![Advait's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaitdhingra&show_icons=true&theme=dark&count_private=true)
 
 ## Milestones:
 * [x] Published my first website. (March 2019).
