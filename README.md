@@ -22,7 +22,7 @@
 - **Miscellaneous:** Git
 - **Languages:** Python, C#, C++
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=advaitdhingra&hide=["issues"]&show_icons=true)
+![Advait's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaitdhingra&show_icons=true&theme=dark)
 
 ## Milestones:
 * [x] Published my first website. (March 2019).
