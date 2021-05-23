@@ -6,6 +6,8 @@
 #### and frameworks since then, like ReactJs and Root. I'm not that experienced in programming, so please hit
 #### me up if you have a project and want some help.  
 
+#### I have developed an interest in CERN, as it combines all of my interests. As you can see from my development history, I like to contribute to CERN's repos and I generally like what they do. I dream to work there as a theoretical Physicist one day :D 
+
 [![GitHib: AdvaitDhingra](https://img.shields.io/github/followers/AdvaitDhingra?label=Follow&style=social)](https://github.com/advaitdhingra)
 [![Email: Advait](https://img.shields.io/badge/Email-Advait-red)](mailto:advaittheboss@gmail.com)
 [![WCA: Advait Dhingra](https://img.shields.io/badge/WCA-Speedcubing-orange)](https://www.worldcubeassociation.org/persons/2016DHIN01)
@@ -29,7 +31,7 @@
 ## Milestones:
 * [x] Published my first website. (March 2019).
 * [x] Worked on a project with other developers.
-* [ ] Sold a program I wrote.
+* [x] Sold a program I wrote.
 * [ ] Published my first mobile application.
 * [x] Contributed to an open-source project that wasn't my own.
 * [ ] Published my first Desktop Application.
