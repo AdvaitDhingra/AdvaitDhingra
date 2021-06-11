@@ -13,6 +13,7 @@
 [![WCA: Advait Dhingra](https://img.shields.io/badge/WCA-Speedcubing-orange)](https://www.worldcubeassociation.org/persons/2016DHIN01)
 [![Website: Advait](https://img.shields.io/badge/My-Website-blue)](https://AdvaitDhingra.github.io)
 [![Twitter:Advait](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FAdvaitDhingra1)](https://twitter.com/AdvaitDhingra1)
+[![My:Linkedin](https://img.shields.io/badge/My-Linkedin-blue)](https://www.linkedin.com/in/advait-dhingra-22172b214/)
 
 ![Advait's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaitdhingra&show_icons=true&theme=dark&count_private=true)
 
