@@ -8,12 +8,14 @@ me up if you have a project and want some help.
 
 I have developed an interest in CERN, as it combines all of my interests. As you can see from my development history, I like to contribute to CERN's repos and I generally like what they do. I dream to work there as a theoretical Physicist one day :D 
 
-[![GitHib: AdvaitDhingra](https://img.shields.io/github/followers/AdvaitDhingra?label=Follow&style=social)](https://github.com/advaitdhingra)
-[![Email: Advait](https://img.shields.io/badge/Email-Advait-red)](mailto:advaittheboss@gmail.com)
-[![WCA: Advait Dhingra](https://img.shields.io/badge/WCA-Speedcubing-orange)](https://www.worldcubeassociation.org/persons/2016DHIN01)
-[![Website: Advait](https://img.shields.io/badge/My-Website-blue)](https://AdvaitDhingra.github.io)
+
+[![Email: Advait](https://img.shields.io/badge/Email-Advait-red?style=for-the-badge)](mailto:advaittheboss@gmail.com)
+[![WCA: Advait Dhingra](https://img.shields.io/badge/WCA-Speedcubing-orange?style=for-the-badge)](https://www.worldcubeassociation.org/persons/2016DHIN01)
+[![Website: Advait](https://img.shields.io/badge/My-Website-blue?style=for-the-badge)](https://AdvaitDhingra.github.io)
+[![My:Linkedin](https://img.shields.io/badge/My-Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/advait-dhingra-22172b214/)
+
 [![Twitter:Advait](https://img.shields.io/twitter/follow/AdvaitDhingra1?style=social)](https://twitter.com/AdvaitDhingra1)
-[![My:Linkedin](https://img.shields.io/badge/My-Linkedin-blue)](https://www.linkedin.com/in/advait-dhingra-22172b214/)
+[![GitHib: AdvaitDhingra](https://img.shields.io/github/followers/AdvaitDhingra?label=Follow&style=social)](https://github.com/advaitdhingra)
 
 ![Advait's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaitdhingra&show_icons=true&theme=dark&count_private=true)
 
