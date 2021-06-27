@@ -3,7 +3,7 @@
 #### I'm a 16-year-old hobbyist developer from Germany. I'm also a Physics enthusiast and a speedcuber. 
 
 I started programming in 2019 and my first language was Python. I have picked up quite a few languages
-and frameworks since then, like ReactJs and Root. I'm not that experienced in programming, so please hit
+and frameworks since then, like ReactJs and ROOT. I'm not that experienced in programming, so please hit
 me up if you have a project and want some help.  
 
 I have developed an interest in CERN, as it combines all of my interests. As you can see from my development history, I like to contribute to CERN's repos and I generally like what they do. I dream to work there as a theoretical Physicist one day :D 
