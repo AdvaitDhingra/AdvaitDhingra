@@ -17,18 +17,19 @@ I have developed an interest in CERN, as it combines all of my interests. As you
 [![Twitter:Advait](https://img.shields.io/twitter/follow/AdvaitDhingra1?style=social)](https://twitter.com/AdvaitDhingra1)
 [![GitHib: AdvaitDhingra](https://img.shields.io/github/followers/AdvaitDhingra?label=Follow&style=social)](https://github.com/advaitdhingra)
 
+
+## Languages:
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+
+## Technologies:
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+
+
 ![Advait's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaitdhingra&show_icons=true&theme=dark&count_private=true)
-
-## Skills:
-
-- **Frontend:** ReactJs
-- **Backend:** Firebase (Auth), (NodeJs)
-- **Mobile:** Flutter, Swift
-- **UI-Frameworks:** Material-UI, Bootstrap
-- **Web:** HTML5, CSS3
-- **Databases:** Firebase (Firestore)
-- **Miscellaneous:** Git
-- **Languages:** Python, C#, C++
 
 
 ## Milestones:
