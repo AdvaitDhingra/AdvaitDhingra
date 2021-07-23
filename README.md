@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advaitdhingra&show_icons=true&theme=tokyonight" alt="advaitdhingra" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight" alt="advaitdhingra" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advaitdhingra&langs_count=5&theme=tokyonight" alt="advaitdhingra" /></p>
