@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Advait</h1>
 <h3 align="center">A Phyiscs and Software enthusiast from Germany</h3>
 
-<p align="left"> <a href="https://twitter.com/advaitdhingra1" target="blank"><img src="https://img.shields.io/twitter/follow/advaitdhingra1?logo=twitter&style=for-the-badge" alt="advaitdhingra1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/advaitdhingra" target="blank"><img src="https://img.shields.io/twitter/follow/advaitdhingra1?logo=twitter&style=for-the-badge" alt="advaitdhingra1" /></a> </p>
 
 - 🔭 I’m currently working on [ROOT](https://github.com/root-project/root)
 
