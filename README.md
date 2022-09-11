@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/advaitdhingra" target="blank"><img src="https://img.shields.io/twitter/follow/advaitdhingra?logo=twitter&style=for-the-badge" alt="advaitdhingra" /></a> </p>
 
-- 🌱 I’m currently learning **Quantum Field Theory**
-
 - ⚡ Fun fact **My dog's name is Boson**
 
 <h3 align="left">Connect with me:</h3>
